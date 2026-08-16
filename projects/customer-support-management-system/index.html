@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Customer Support Management</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar"><h1>SupportDesk</h1><span>Customer Support Management</span></header>
+  <main class="container">
+    <section class="stats">
+      <article><strong id="total">0</strong><span>Total Tickets</span></article>
+      <article><strong id="open">0</strong><span>Open</span></article>
+      <article><strong id="progress">0</strong><span>In Progress</span></article>
+      <article><strong id="resolved">0</strong><span>Resolved</span></article>
+    </section>
+    <section class="panel">
+      <div class="toolbar"><input id="search" placeholder="Search customer or issue..."><select id="filter"><option value="all">All Status</option><option>Open</option><option>In Progress</option><option>Resolved</option></select><button id="add">+ New Ticket</button></div>
+      <div id="tickets" class="tickets"></div>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
