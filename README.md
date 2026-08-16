@@ -1,88 +1,100 @@
-# Hi, I'm Kavuri Venkata Rohan Kumar 👋
+# KAVURI VENKATA ROHAN KUMAR
 
-### 💻 B.Com (Computer Applications) Student | Customer Support | Data Entry | Logistics & Technology
+<p align="center">
+  <b>Technology • Operations • Customer Experience • Digital Solutions</b><br>
+  B.Com (Computer Applications) | Builder | Continuous Learner
+</p>
 
-I’m a motivated and detail-oriented professional building a career at the intersection of **technology, customer service, data operations, and logistics**. I enjoy learning practical tools, creating useful digital projects, and continuously improving my technical and professional skills.
-
-## 🚀 About Me
-
-- 🎓 B.Com (Computer Applications) student
-- 💼 Experience in **Amazon warehouse operations & data entry**
-- 📱 Experience in **mobile sales and customer handling**
-- 🌱 Currently developing skills in **Python, SQL, HTML, CSS, JavaScript and Git/GitHub**
-- 📊 Interested in **data analytics, automation, web development and AI**
-- 🤝 Strong interest in **customer support, operations, logistics and MNC opportunities**
-- 🎯 Goal: grow into a skilled IT and operations professional
-
-## 🛠️ Technical Skills
-
-**Programming & Web**
-- Python
-- SQL
-- HTML5
-- CSS3
-- JavaScript
-
-**Tools & Platforms**
-- Git
-- GitHub
-- Microsoft Excel
-- Data Entry & Documentation
-
-**Professional Skills**
-- Customer Support
-- Communication
-- Problem Solving
-- Team Coordination
-- Logistics & Warehouse Operations
-- Attention to Detail
-
-## 📌 Featured Projects
-
-### 🛒 Customer Support Management System
-A practical customer-support project focused on managing customer issues, support requests, status tracking and resolution workflows.
-
-**Focus:** Customer Service • Data Management • Workflow Management
-
-### 🛍️ Indian Groceries – Grocery Delivery Platform
-A modern grocery-delivery website concept designed for product browsing, cart management, customer accounts and online ordering.
-
-**Focus:** Web Development • E-commerce • UI/UX
-
-### 🚌 RK Bus – Bus Ticket Booking Platform
-A bus-booking platform concept focused on route discovery, seat selection, booking and customer-friendly travel experiences.
-
-**Focus:** Web Development • Booking Systems • User Experience
-
-## 📈 Currently Learning
-
-```text
-Python        ███████░░░ 70%
-SQL           ██████░░░░ 60%
-HTML/CSS      ████████░░ 80%
-JavaScript    █████░░░░░ 50%
-Git/GitHub    ███████░░░ 70%
-```
-
-## 🎯 Career Interests
-
-I am open to opportunities in:
-
-- Customer Support / Customer Service
-- Data Entry / Data Operations
-- Logistics & Warehouse Operations
-- Operations / Process Associate
-- IT Support / Technical Support
-- Junior Web Development
-- Data Analytics – Entry Level
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [Kavuri Venkata Rohan Kumar](https://www.linkedin.com/in/venkata-rohan-kumar-9b870936a)
-- 🐙 GitHub: [@venkatarohankumar](https://github.com/venkatarohankumar)
+<p align="center">
+  <a href="https://github.com/venkatarohankumar">GitHub</a> •
+  <a href="https://www.linkedin.com/in/venkata-rohan-kumar-9b870936a">LinkedIn</a>
+</p>
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile!**
+## 👔 Executive Profile
 
-*Always learning. Always building. Always improving.* 🚀
+I am a growth-focused professional developing practical solutions across **customer support, operations, logistics, data management and web technology**. My approach is simple: understand the problem, design a useful solution, build it cleanly and keep improving it.
+
+I use this GitHub as my **professional engineering portfolio** — documenting projects, experiments, technical learning and business-oriented digital solutions.
+
+## 🏢 Portfolio Highlights
+
+| Project | Purpose | Technology |
+|---|---|---|
+| 🎧 **Customer Support Management System** | Ticket and support operations | HTML • CSS • JavaScript |
+| 🛒 **Indian Groceries** | E-commerce / grocery delivery | HTML • CSS • JavaScript |
+| 🚌 **RK Bus** | Bus discovery and booking | HTML • CSS • JavaScript |
+
+## 🧠 Core Competencies
+
+- **Customer Experience:** ticket handling, communication, issue resolution
+- **Operations:** data entry, documentation, process coordination
+- **Logistics:** warehouse operations, transportation workflows
+- **Technology:** Python, SQL, JavaScript, HTML, CSS
+- **Business:** problem solving, process improvement, digital product thinking
+- **Tools:** Git, GitHub, Microsoft Excel
+
+## 🚀 Featured Projects
+
+### 🎧 Customer Support Management System
+A support operations dashboard with ticket tracking, status monitoring, priority management, search and LocalStorage persistence.
+
+**[View Project →](projects/customer-support-management-system/)**
+
+### 🛒 Indian Groceries
+A responsive grocery storefront prototype featuring product discovery, category filtering and cart interactions.
+
+**[View Project →](projects/indian-groceries/)**
+
+### 🚌 RK Bus
+A responsive bus-search prototype featuring origin/destination search, travel options and booking interaction.
+
+**[View Project →](projects/rk-bus/)**
+
+## 📊 Technology Stack
+
+```text
+Frontend       HTML5 • CSS3 • JavaScript
+Programming    Python • SQL
+Tools          Git • GitHub • Microsoft Excel
+Focus          Web Development • Automation • Data • AI
+Operations     Customer Support • Logistics • Data Operations
+```
+
+## 🎯 Professional Direction
+
+I am building toward opportunities in **IT support, customer technology, operations, process management, data operations, logistics technology and entry-level software/web development**.
+
+## 📌 Repository Structure
+
+```text
+VENKATAROHANKUMARKAVURI/
+├── README.md
+└── projects/
+    ├── customer-support-management-system/
+    │   ├── README.md
+    │   ├── index.html
+    │   ├── style.css
+    │   └── app.js
+    ├── indian-groceries/
+    │   ├── README.md
+    │   ├── index.html
+    │   ├── style.css
+    │   └── app.js
+    └── rk-bus/
+        ├── README.md
+        ├── index.html
+        ├── style.css
+        └── app.js
+```
+
+## 📫 Connect
+
+**LinkedIn:** [Kavuri Venkata Rohan Kumar](https://www.linkedin.com/in/venkata-rohan-kumar-9b870936a)
+
+**GitHub:** [@venkatarohankumar](https://github.com/venkatarohankumar)
+
+---
+
+<p align="center"><b>Building useful technology. Learning every day. Creating with purpose. 🚀</b></p>
